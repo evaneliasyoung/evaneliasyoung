@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/evaneliasyoung/evaneliasyoung/master/wave.gif" width="30px">
 
-I'm currently pursuing my bachelor's degree in computer science from [University of Science and Technology](https://mst.edu/). I'm a tech enthusiast, open-source advocate, and always interested in disruptive technologies. Find out more about me and feel free to connect with me here:
+I'm currently pursuing my bachelor's degree in computer science from [Missouri University of Science and Technology](https://mst.edu/). I'm a tech enthusiast, open-source advocate, and always interested in disruptive technologies. Find out more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-evaneliasyoung-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evaneliasyoung/)](https://www.linkedin.com/in/evaneliasyoung/)
 [![Instagram Badge](https://img.shields.io/badge/-evaneliasyoung-C92D8E?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/evaneliasyoung/)](https://instagram.com/evaneliasyoung)
