@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/evaneliasyoung/evaneliasyoung/master/wave.gif" width="30px">
+## Howdy! <img src="https://raw.githubusercontent.com/evaneliasyoung/evaneliasyoung/master/wave.gif" width="30px">
 
 I'm a recent graduate of [Missouri University of Science and Technology](https://mst.edu/) with a bachelor's degree in computer science and minors in Spanish and mathematics. I'm a musician, tech enthusiast, open-source advocate, and always interested in disruptive technologies. To find out more about me and feel free to connect with me here:
 
