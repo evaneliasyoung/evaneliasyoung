@@ -2,9 +2,10 @@
 
 I'm a recent graduate of [Missouri University of Science and Technology](https://mst.edu/) with a bachelor's degree in computer science and minors in Spanish and mathematics. I'm a musician, tech enthusiast, open-source advocate, and always interested in disruptive technologies. To find out more about me and feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-evaneliasyoung-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evaneliasyoung/)](https://www.linkedin.com/in/evaneliasyoung/)
-[![Instagram Badge](https://img.shields.io/badge/-evaneliasyoung-C92D8E?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/evaneliasyoung/)](https://instagram.com/evaneliasyoung)
-[![Twitter Badge](https://img.shields.io/badge/-evaneliasyoung-1D9BF0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/evaneliasyoung/)](https://twitter.com/evaneliasyoung)
+[![LinkedIn Badge](https://img.shields.io/badge/evaneliasyoung-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evaneliasyoung/)
+[![Instagram Badge](https://img.shields.io/badge/evaneliasyoung-C92D8E?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/evaneliasyoung/)
+[![Twitter Badge](https://img.shields.io/badge/evaneliasyoung-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/evaneliasyoung/)
+[![Threads Badge](https://img.shields.io/badge/evaneliasyoung-black?style=flat-square&logo=threads&logoColor=white)](https://threads.net/evaneliasyoung/)
 
 ## ⚡ Technologies
 
