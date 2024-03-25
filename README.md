@@ -22,6 +22,7 @@ I'm a recent graduate of [Missouri University of Science and Technology](https:/
 ![AngularJS](https://img.shields.io/badge/-AngularJS-D61A15?style=flat-square&logo=angular)
 ![Vue](https://img.shields.io/badge/-Vue-25724E?style=flat-square&logo=vue.js)
 ![Lit](https://img.shields.io/badge/-Lit-324fff?style=flat-square&logo=lit)
+![Svelte](https://img.shields.io/badge/-Svelte-9b3c1c?style=flat-square&logo=svelte)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
