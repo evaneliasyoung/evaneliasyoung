@@ -5,7 +5,7 @@ I'm a recent graduate of [Missouri University of Science and Technology](https:/
 [![LinkedIn Badge](https://img.shields.io/badge/evaneliasyoung-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evaneliasyoung/)
 [![Instagram Badge](https://img.shields.io/badge/evaneliasyoung-C92D8E?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/evaneliasyoung/)
 [![X Badge](https://img.shields.io/badge/evaneliasyoung-black?style=flat-square&logo=x&logoColor=white)](https://twitter.com/evaneliasyoung)
-[![Threads Badge](https://img.shields.io/badge/evaneliasyoung-black?style=flat-square&logo=threads&logoColor=white)](https://threads.net/evaneliasyoung/)
+[![Threads Badge](https://img.shields.io/badge/evaneliasyoung-black?style=flat-square&logo=threads)](https://threads.net/@evaneliasyoung)
 
 ## ⚡ Technologies
 
