@@ -31,7 +31,7 @@ I'm a recent graduate of [Missouri University of Science and Technology](https:/
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evaneliasyoung&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/evaneliasyoung/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evaneliasyoung&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/evaneliasyoung/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaneliasyoung&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaneliasyoung&hide=TeX&layout=compact&theme=default#gh-light-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evaneliasyoung&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/evaneliasyoung/#gh-dark-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evaneliasyoung&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/evaneliasyoung/#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaneliasyoung&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/evaneliasyoung/#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaneliasyoung&hide=TeX&layout=compact&theme=default#gh-light-mode-only)](https://github.com/evaneliasyoung/#gh-light-mode-only)
